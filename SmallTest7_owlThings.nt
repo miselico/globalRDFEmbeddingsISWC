@@ -1,0 +1,10 @@
+<A> <beta> <B> .
+<A> <gamma> <B> .
+<B> <delta> <C>.
+<A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<C> <beta> <A> .
+<C> <beta> <D> .
+<B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+
+<D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+

@@ -1,0 +1,5 @@
+<A> <beta> <B> .
+<A> <gamma> <B> .
+<C> <beta> "jeee" .
+<A> <gamma> "12.3"^<xsd:string> .
+<B> <delta> <C>.
